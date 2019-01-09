@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/visbic/darknet-train/data/coco/images/people10000/train.txt
+valid  = /home/visbic/darknet-train/data/coco/images/people10000/test.txt
+names = data/obj.names
+backup = backup_default/
